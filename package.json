@@ -6,16 +6,18 @@
   "scripts": {
     "test": "vows test/* --spec"
   },
-  "repository": "",
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git@github_personal:Schoonology/node-a2s.git"
+  },
+  "author": "Michael Schoonmaker <michael.r.schoonmaker@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "vows": "~0.7.0"
   },
-  "optionalDependencies": {
+  "dependencies": {
+    "request": "~2.12.0",
     "optimist": "~0.3.5"
   },
-  "dependencies": {
-    "request": "~2.12.0"
-  }
+  "readmeFilename": "README.md"
 }
