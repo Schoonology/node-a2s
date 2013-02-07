@@ -1,0 +1,21 @@
+{
+  "name": "a2s",
+  "version": "1.0.0",
+  "description": "Provides a nice interface to a2saas.com, the asciitosvg web service.",
+  "main": "index.js",
+  "scripts": {
+    "test": "vows test/* --spec"
+  },
+  "repository": "",
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "vows": "~0.7.0"
+  },
+  "optionalDependencies": {
+    "optimist": "~0.3.5"
+  },
+  "dependencies": {
+    "request": "~2.12.0"
+  }
+}
