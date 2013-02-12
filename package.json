@@ -3,6 +3,9 @@
   "version": "1.0.1",
   "description": "Provides a nice interface to a2saas.com, the asciitosvg web service.",
   "main": "index.js",
+  "bin": {
+    "a2s": "./bin/a2s"
+  },
   "scripts": {
     "test": "vows test/* --spec"
   },
