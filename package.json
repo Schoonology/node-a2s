@@ -1,6 +1,6 @@
 {
   "name": "a2s",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Provides a nice interface to a2saas.com, the asciitosvg web service.",
   "main": "index.js",
   "bin": {
