@@ -1,6 +1,10 @@
 # A2S
 
-A simple library to interface with the handy [A2S API](http://www.a2saas.com/) for converting ASCII Art into SVGs.
+A simple library to interface with the handy [A2S API](http://www.a2saas.com/) for converting ASCII Art into SVGs.  
+
+## DEPRECATED
+
+It looks like the A2S service has been removed, so this repo is here for posterity only.
 
 ## Usage example
 
